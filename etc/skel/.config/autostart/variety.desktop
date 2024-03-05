@@ -5,4 +5,4 @@ Icon=variety
 Exec=variety
 Terminal=false
 Type=Application
-X-GNOME-Autostart-Delay=20
+X-GNOME-Autostart-Delay=10
